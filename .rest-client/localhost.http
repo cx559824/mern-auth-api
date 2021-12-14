@@ -1,0 +1,11 @@
+###
+POST http://localhost:8000/api/signup
+#
+Content-Type: application/json
+Accept: application/json
+
+{ 
+    "name": "Rodolfo",
+    "email": "rodolfo.raquioniii@gmail.com",
+    "password": "ditter123456"
+}
